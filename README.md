@@ -1,24 +1,11 @@
 ## About Me
+* Working as a Product Manager at an eCommerce Startup
+* Learning more about React
 
 ## Tech Stack
 
+
 ## Some of My Main Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tingchun0113&repo=password_generator)](https://github.com/tingchun0113/password_generator)
 
 ## Connect with Me
-
-
-
-<!--
-**tingchun0113/tingchun0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

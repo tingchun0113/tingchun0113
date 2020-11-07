@@ -18,5 +18,5 @@
 ## Github Stats &nbsp;
 <a href="https://github.com/tingchun0113"  target="_blank">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=tingchun0113&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tingchun0113&theme=buefy&layout=compact" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tingchun0113&theme=buefy&layout=compact" />
 </a>

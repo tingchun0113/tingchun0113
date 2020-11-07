@@ -3,8 +3,8 @@
 * Learning more about React
 
 ## Connect with Me &nbsp;
-<a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:tingchun0113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:tingchun0113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 
 
 ## Tech Stack &nbsp;

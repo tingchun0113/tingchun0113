@@ -10,14 +10,16 @@
 ## Tech Stack &nbsp;
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 
 
 
 ## Some of My Projects &nbsp;
-<a href="https://github.com/tingchun0113/password_generator" target="_blank"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tingchun0113&repo=password_generator&theme=buefy&show_icons=true" alt="password_generator"></a>
+<a href="https://github.com/tingchun0113/password_generator" target="_blank"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tingchun0113&repo=password_generator&theme=buefy" alt="password_generator"></a>
 
 ## Github Stats &nbsp;
-<a href="https://github.com/tingchun0113"  target="_blank">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=tingchun0113&theme=buefy&show_icons=true&layout=compact" />
+<a href="https://github.com/tingchun0113" target="_blank">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=tingchun0113&theme=buefy&show_icons=true" />
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tingchun0113&theme=buefy&layout=compact" />
 </a>

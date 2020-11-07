@@ -11,8 +11,11 @@
 
 
 
-## Some of My Main Projects
+## Some of My Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tingchun0113&repo=password_generator)](https://github.com/tingchun0113/password_generator)
 
 ## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=tingchun0113&show_icons=true)
+<a href="https://github.com/tingchun0113"  target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tingchun0113&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tingchun0113&theme=buefy&layout=compact" />
+</a>

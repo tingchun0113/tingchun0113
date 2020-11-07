@@ -1,4 +1,12 @@
-### Hi there!!!!! 👋
+## About Me
+
+## Tech Stack
+
+## Some of My Main Projects
+
+## Connect with Me
+
+
 
 <!--
 **tingchun0113/tingchun0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,8 @@
 
 ## Connect with Me &nbsp;
 <a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-<a href="mailto:tingchun0113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:tingchun0113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=18563208248" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
 
 
 ## Tech Stack &nbsp;

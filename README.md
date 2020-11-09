@@ -1,5 +1,6 @@
 ## About Me &nbsp;
 * Working as a Product Manager at an Internet Startup
+* INSEAD MBA
 * Learning more about React
 
 ## Connect with Me &nbsp;

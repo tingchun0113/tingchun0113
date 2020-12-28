@@ -1,5 +1,5 @@
 ## About Me &nbsp;
-* Product Manager & (Front-end) Web Developer
+* Product Manager & Front-end Web Developer
 * INSEAD MBA
 * Learning more about React
 

@@ -1,7 +1,6 @@
 ## About Me &nbsp;
 * Product Manager & Front-end Web Developer
 * INSEAD MBA
-* Learning more about React
 
 ## Connect with Me &nbsp;
 <a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>

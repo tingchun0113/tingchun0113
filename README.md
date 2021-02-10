@@ -14,9 +14,6 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
-## Featured projects &nbsp;
-<a href="https://github.com/tingchun0113/password_generator" target="_blank"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tingchun0113&repo=password_generator&theme=buefy" alt="password_generator"></a>
-
 ## Connect with me &nbsp;
 <a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=18563208248" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
@@ -25,7 +22,8 @@
 <!-- <a href="mailto:tingchun0113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a> -->
 <!-- <a href="http://m.me/tingchun" target="_blank"><img src="https://img.shields.io/badge/-Messenger-344E86?style=for-the-badge&logo=Messenger&logoColor=white"></a> -->
 
-
+<!-- ## Featured projects &nbsp; -->
+<!-- <a href="https://github.com/tingchun0113/password_generator" target="_blank"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tingchun0113&repo=password_generator&theme=buefy" alt="password_generator"></a> -->
 
 <!-- ## Github stats &nbsp; -->
 <!-- <a href="https://github.com/tingchun0113" target="_blank"> -->

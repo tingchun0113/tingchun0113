@@ -1,5 +1,5 @@
 ## About me &nbsp;
-* Product Manager & Front-end Web Developer
+* Product Manager & Developer
 * INSEAD MBA
 
 ## Tech stack &nbsp;

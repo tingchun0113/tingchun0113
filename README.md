@@ -10,9 +10,11 @@
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 <br>
-![Node](https://img.shields.io/badge/-node.js-grey?style=for-the-badge&logo=node-dot-js&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![Node.js](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=node-dot-js&logoColor=white&labelColor=8E2DE2)
+![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![GitHub](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+<br>
+![Vue.js](https://img.shields.io/badge/-Vue.js-grey?style=for-the-badge&logo=vue-dot-js&logoColor=white&labelColor=8E2DE2)
 
 ## Connect with me &nbsp;
 <a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>

@@ -10,11 +10,11 @@
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 <br>
-![Node.js](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=node-dot-js&logoColor=white&labelColor=8E2DE2)
+![Node.js](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2)
 ![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![GitHub](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
-![Vue.js](https://img.shields.io/badge/-Vue.js-grey?style=for-the-badge&logo=vue-dot-js&logoColor=white&labelColor=8E2DE2)
+![Vue.js](https://img.shields.io/badge/-Vue.js-grey?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=8E2DE2)
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 
 ## Connect with me &nbsp;
@@ -24,9 +24,6 @@
 <a href="https://www.notion.so/7db36322d4f14b329e09ed74a45321fe?v=2d0988bf80ce457ebc40f758e656c35f" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Tracker-lightgrey?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <!-- <a href="mailto:tingchun0113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a> -->
 <!-- <a href="http://m.me/tingchun" target="_blank"><img src="https://img.shields.io/badge/-Messenger-344E86?style=for-the-badge&logo=Messenger&logoColor=white"></a> -->
-
-<!-- ## Featured projects &nbsp; -->
-<!-- <a href="https://github.com/tingchun0113/password_generator" target="_blank"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tingchun0113&repo=password_generator&theme=buefy" alt="password_generator"></a> -->
 
 <!-- ## Github stats &nbsp; -->
 <!-- <a href="https://github.com/tingchun0113" target="_blank"> -->

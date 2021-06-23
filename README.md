@@ -19,7 +19,6 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 <br>
 
-
 ## Connect with me &nbsp;
 <a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=18563208248" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>

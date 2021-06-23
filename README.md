@@ -7,15 +7,18 @@
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 <br>
+![Vue.js](https://img.shields.io/badge/-Vue.js-grey?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=8E2DE2)
+![Node.js](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2)
+![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+<br>
+![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![GitHub](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![Jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=8E2DE2)
+<br>
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 <br>
-![Node.js](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2)
-![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![GitHub](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-<br>
-![Vue.js](https://img.shields.io/badge/-Vue.js-grey?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=8E2DE2)
-![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+
 
 ## Connect with me &nbsp;
 <a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>

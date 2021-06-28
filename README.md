@@ -16,7 +16,7 @@
 ![Jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=8E2DE2)
 <br>
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=Sass&logoColor=white&labelColor=8E2DE2)
 <br>
 
 ## Connect with me &nbsp;

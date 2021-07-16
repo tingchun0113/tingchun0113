@@ -16,8 +16,9 @@
 ![Jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=8E2DE2)
 <br>
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=Sass&logoColor=white&labelColor=8E2DE2)
+![Tailwind](https://img.shields.io/badge/-tailwind-grey?style=for-the-badge&logo=tailwind%20CSS&logoColor=white&labelColor=8E2DE2)
 <br>
+![Sass](https://img.shields.io/badge/-Sass-grey?style=for-the-badge&logo=Sass&logoColor=white&labelColor=8E2DE2)
 
 ## Connect with me &nbsp;
 <a href="https://www.linkedin.com/in/tingchunw" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>

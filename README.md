@@ -1,6 +1,7 @@
 ## About me &nbsp;
-* PM & Web Developer | INSEAD MBA
-* [https://linktr.ee/tingchun0113](https://linktr.ee/tingchun0113)
+* Scrum PM & Web Developer | Internet | INSEAD MBA
+* [Things I've done](https://peerlist.io/tcwang)
+* [Social media sites](https://linktr.ee/tingchun0113)
 
 ## Tech stack &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)

@@ -1,5 +1,5 @@
 ## About me &nbsp;
-* Scrum PM & Web Developer | Internet | INSEAD MBA
+* Scrum/Tech PM • INSEAD MBA
 * [Things I've done](https://peerlist.io/tcwang)
 * [Social media sites](https://linktr.ee/tingchun0113)
 

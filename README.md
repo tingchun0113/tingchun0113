@@ -1,5 +1,6 @@
 ## About me &nbsp;
 * Technical Program/Project Manager • INSEAD MBA
+* [Digital skill badges](https://www.credly.com/users/tcwang/badges)
 * [Things I've done](https://peerlist.io/tcwang)
 * [Social media sites](https://linktr.ee/tingchun0113)
 

@@ -1,5 +1,5 @@
 ## About me &nbsp;
-* Technical Product/Project Manager • INSEAD MBA
+* Technical Program & Customer Solutions • Atlassian Jira • INSEAD MBA
 * [Digital skill badges](https://www.credly.com/users/tcwang/badges)
 * [Social media sites](https://linktr.ee/tingchun0113)
 <!-- * [Things I've done](https://peerlist.io/tcwang) -->
